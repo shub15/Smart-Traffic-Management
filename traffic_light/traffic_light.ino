@@ -4,8 +4,10 @@
 #include <time.h>
 
 // WiFi credentials
-const char* ssid = "TP-Link_56A7";
-const char* password = "A378904@";
+// const char* ssid = "TP-Link_56A7";
+// const char* password = "A378904@";
+const char* ssid = "jwaling's Galaxy A22 5G";
+const char* password = "bxya0140";
 
 // ThingSpeak settings
 String apiKey = "CRYP45VHART8GYHV";  // Write API Key
